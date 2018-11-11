@@ -1,8 +1,8 @@
 {
-  "name": "react-easy-router",
+  "name": "@rq/react-easy-router",
   "description": "Easy and lightweight react router",
   "author": "Maxim Falaleev <max@studio107.ru> (https://studio107.ru)",
-  "version": "3.0.9",
+  "version": "3.0.10",
   "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
